@@ -13,7 +13,7 @@
  
 ## 1. Descrição do Documento
 
-   Esse documento tem o objetivo de apresentar e detalhar como é estruturado o projeto do E-Book, de forma que apoie a     compreensão do desenvolvimento do projeto. Desta forma é possivel identificar como ocorre a comunicação entre as entidades, quais os tipos de dados que serão trabalhados, e os tipos de funcionalidades necessárias para pleno funcionamento do software.
+   Esse documento tem o objetivo de apresentar e detalhar como é estruturado o projeto do E-Book, de forma que apoie a     compreensão do desenvolvimento do projeto. Desta forma é possivel identificar como ocorre a comunicação entre as entidades, quais os tipos de dados que serão trabalhados e os tipos de funcionalidades necessárias para pleno funcionamento do software.
   
 # 2. Histórico de Revisões  
   
