@@ -1,26 +1,51 @@
-# Documento de Visão
+<h1> Documento de Visão</h1>
   
-- 1. Introdução
-  * 1. Propósito do documento de requisitos (para que serve)
-  * 2. Escopo do produto (breve descrição das características do sistema - Qual a função do sistema a ser desenvolvido? Para que ele serve?)
-- 2. Descrição geral
-  * 1. Requisitos funcionais (descrição de todos os requisitos solicitados pelo cliente)
-  * 2. Requisitos não-funcionais
-- 3. Perfis dos usuários (características dos usuários)
-- 4. Riscos
-- 5. Suposições e dependências
-  * i. Opcional
-- 6. Perspectiva do produto (dá uma visão geral de como o produto funcionará. Pode ser um protótipo de telas feito a mão)
-  * i. Opcional
-  
-# 1. Introdução  
-  
-# 2. Descrição geral  
-  
-# 3. Perfis dos usuários (características dos usuários)  
-  
-# 4. Riscos  
-  
-# 5. Suposições e dependências  
-  
-# 6. Perspectiva do produto (dá uma visão geral de como o produto funcionará. Pode ser um protótipo de telas feito a mão)
+<h2> 1. Introdução</h2>
+  <ul>
+    <li>Este documento tem o objetivo de coletar, analisar e definir os requisitos do sistema Ebook, desde os requisitos não funcionais , assim como os funcionais também, buscamos entrar em acordo sobre como cada requisito irá impactar no projeto</li>
+    <li>O Sistema a ser desenvolvido será um sistema de aluguel/compras de livros, onde o usuário cadastrado poderá alugar ou comprar livros que estão disponíveis, tais livros serão adicionados pelos próprios usuários, ou seja, os usuários terão opções de comprar / vender / alugar livros. </li>
+    <li>O sistema irá gerar relatórios com o objetivo de manter o usuário informado sobre os tipos de transações que ele fez e mostrando informações sobre os livros que ele colocou a venda ou em aluguel </li>
+  </ul>
+<h2>2. Descrição geral </h2>
+  <ul>
+    <li><h3>Requisitos Funcionais :</h3>
+      <ul>
+        <li>Operação de cadastrar usuários</li>
+        <li>Operação de atualizar perfil de usuário</li>
+        <li>Operação de compra de livro</li>
+        <li>Operação de aluguel de livro</li>
+        <li>Operação de venda de livro</li>
+        <li>Geração de relatório de venda</li>
+        <li>Geração de relatório de compra</li>
+        <li>Geração de relatório de aluguel</li>
+        <li>Autenticação de usuário</li>
+        <li>Integração com algum sistema de pagamento</li>
+      </ul>
+    </li>
+    <li><h3>Requisitos não funcionais</h3>
+      <ul>
+        <li>Perfomance</li>
+        <li>Responsividade</li>
+        <li>Segurança</li>
+        <li>Confiabilidade</li>
+      </ul>
+    </li>
+  </ul>
+<h2>3. Perfis dos usuários</h2>
+  <ul>
+    <li>Leitores</li>
+    <li>Vendedores</li>
+    <li>Colecionadores</li>
+  </ul>
+<h2>4. Riscos</h2>
+  <ul>
+    <li>Usuário não gostar da interface</li>
+    <li>Falta de marketing</li>
+    <li>Interrupção de comunicação entre servidores</li>
+  </ul>
+
+<h2>5. Susposições e dependências</h2>
+<ul>
+  <li></li>
+</ul>
+
